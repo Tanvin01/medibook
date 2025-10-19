@@ -1,2 +1,3 @@
 [2025-09-23T12:58:00] fix: correct date formatting for timezone handling
 [2025-10-02T10:37:00] perf: lazy load components for better FCP
+[2025-10-19T10:56:00] docs: update API documentation with examples
