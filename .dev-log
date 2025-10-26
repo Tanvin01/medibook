@@ -2,3 +2,4 @@
 [2025-10-02T10:37:00] perf: lazy load components for better FCP
 [2025-10-19T10:56:00] docs: update API documentation with examples
 [2025-10-23T10:23:00] fix: resolve hydration mismatch in SSR components
+[2025-10-26T11:20:00] feat: add error boundary with fallback UI
