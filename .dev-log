@@ -4,3 +4,4 @@
 [2025-10-23T10:23:00] fix: resolve hydration mismatch in SSR components
 [2025-10-26T11:20:00] feat: add error boundary with fallback UI
 [2025-11-01T19:56:00] chore: add ESLint and Prettier configuration
+[2025-12-08T15:50:00] feat: add pagination to list views
