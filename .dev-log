@@ -6,3 +6,4 @@
 [2025-11-01T19:56:00] chore: add ESLint and Prettier configuration
 [2025-12-08T15:50:00] feat: add pagination to list views
 [2025-12-21T17:46:00] refactor: extract reusable hooks for data fetching
+[2025-12-24T18:55:00] feat: add loading skeleton components
