@@ -35,3 +35,5 @@
 [2026-06-05T09:00:00] feat: add insurance verification compatibility check
 
 [2026-06-11T14:00:00] docs: add complete setup guide with Supabase migration steps
+
+[2026-02-08T13:00:00] feat: setup Next.js project with Supabase client and auth
