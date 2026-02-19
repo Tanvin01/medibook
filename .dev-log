@@ -12,3 +12,4 @@
 [2026-01-18T12:55:00] fix: resolve race condition in async state updates
 [2026-01-23T12:02:00] docs: add architecture diagram to README
 [2026-01-27T12:24:00] refactor: extract reusable hooks for data fetching
+[2026-02-19T15:16:00] chore: add ESLint and Prettier configuration
