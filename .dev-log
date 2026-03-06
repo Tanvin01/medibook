@@ -37,3 +37,4 @@
 [2026-06-11T14:00:00] docs: add complete setup guide with Supabase migration steps
 
 [2026-02-08T13:00:00] feat: setup Next.js project with Supabase client and auth
+[2026-03-06T10:30:00] feat: build doctor search with specialty and location filters
