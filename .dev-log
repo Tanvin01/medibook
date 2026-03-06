@@ -17,3 +17,5 @@
 [2026-04-05T13:00:00] fix: resolve race condition in async state updates
 
 [2026-02-08T13:00:00] feat: setup Next.js project with Supabase client and auth
+
+[2026-03-06T10:30:00] feat: build doctor search with specialty and location filters
