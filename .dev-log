@@ -19,3 +19,5 @@
 [2026-02-08T13:00:00] feat: setup Next.js project with Supabase client and auth
 
 [2026-03-06T10:30:00] feat: build doctor search with specialty and location filters
+
+[2026-03-11T13:00:00] feat: implement availability calendar with slot generation
