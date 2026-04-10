@@ -23,3 +23,5 @@
 [2026-03-11T13:00:00] feat: implement availability calendar with slot generation
 
 [2026-04-04T13:30:00] feat: integrate Daily.co API for video consultation rooms
+
+[2026-04-10T10:00:00] feat: add Twilio SMS reminders for upcoming appointments
