@@ -45,3 +45,4 @@
 [2026-05-06T09:15:00] feat: add patient medical history and prescription records
 [2026-05-12T14:30:00] feat: implement post-consultation review and rating system
 [2026-06-05T09:00:00] feat: add insurance verification compatibility check
+[2026-06-11T14:00:00] docs: add complete setup guide with Supabase migration steps
